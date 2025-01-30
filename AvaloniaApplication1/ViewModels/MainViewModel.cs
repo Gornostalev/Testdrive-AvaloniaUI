@@ -2,5 +2,5 @@
 
 public class MainViewModel : ViewModelBase
 {
-    public string AgaDa => "Text changed";
+    public string AgaDa => "My crossplatform AvaloniaUI App, yeaa 😍";
 }
